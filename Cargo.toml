@@ -1,0 +1,10 @@
+[package]
+name = "proximity-allocator"
+version = "0.1.0"
+authors = ["Elliott Linder <elliott.darfink@gmail.com>"]
+
+[dependencies]
+region = "2.0.0"
+mmap-fixed = "0.1.5"
+slice-pool = "0.4.1"
+tap = "0.3.0"
